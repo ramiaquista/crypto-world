@@ -1,1 +1,22 @@
+.navbar {
+  background-color: #0b0c10 !important;
+}
 
+.navbar-dark .navbar-nav .nav-link {
+  color: white !important;
+}
+
+.navbar-dark .navbar-nav .nav-link.active {
+  /* color: #66fcf1 !important; */
+  text-decoration: underline !important;
+}
+
+.navbar-dark .navbar-brand {
+  color: #66fcf1 !important;
+}
+
+.main-container {
+  height: 50vh;
+  background-color: #0b0c10;
+  color: white;
+}
